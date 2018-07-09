@@ -1,0 +1,10 @@
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\bin\Debug\Username Generator.exe.config
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\bin\Debug\Username Generator.exe
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\bin\Debug\Username Generator.pdb
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username Generator.csprojResolveAssemblyReference.cache
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username_Generator.Form1.resources
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username_Generator.Properties.Resources.resources
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username Generator.csproj.GenerateResource.Cache
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username Generator.csproj.CoreCompileInputs.cache
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username Generator.exe
+Y:\Documents\Software Dev 17\Block 2\Systems Foundations\Username Generator\Username Generator\obj\Debug\Username Generator.pdb
